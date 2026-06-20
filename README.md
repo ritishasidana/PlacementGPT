@@ -12,16 +12,17 @@ Instead of relying on generic internet knowledge, the system retrieves relevant 
 
 ### Key Features
 
-* 📄 PDF Upload & Automatic Indexing
-* 💬 RAG-based Question Answering
-* 🔍 Semantic Search using Vector Embeddings
-* 📚 AI-Powered Revision Notes Generation
-* 💡 Interview Question Generation
-* 🏢 Company-wise Interview Experience Filtering
-* 📖 Subject-wise Document Filtering
-* 📎 Source Citations & Retrieved Chunks
-* 📊 Similarity Score Display
-* 🎯 Multi-Document Retrieval
+*
+*  PDF Upload & Automatic Indexing
+*  RAG-based Question Answering
+*  Semantic Search using Vector Embeddings
+*  AI-Powered Revision Notes Generation
+*  Interview Question Generation
+*  Company-wise Interview Experience Filtering
+*  Subject-wise Document Filtering
+*  Source Citations & Retrieved Chunks
+*  Similarity Score Display
+*  Multi-Document Retrieval
 
 ---
 
