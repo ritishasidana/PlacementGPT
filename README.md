@@ -12,7 +12,6 @@ Instead of relying on generic internet knowledge, the system retrieves relevant 
 
 ### Key Features
 
-*
 *  PDF Upload & Automatic Indexing
 *  RAG-based Question Answering
 *  Semantic Search using Vector Embeddings
