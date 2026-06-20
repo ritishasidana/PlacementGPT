@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# ChromaDB
+chroma_db/
+
+# Uploads
+uploads/
+
+# Frontend
+node_modules/
+
+# VS Code
+.vscode/
+
+# Build files
+dist/
+build/
+
+backend/chroma_store/
