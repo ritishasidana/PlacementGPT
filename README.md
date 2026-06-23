@@ -3,6 +3,9 @@
 **AI-Powered Placement Preparation Assistant** built using **Retrieval-Augmented Generation (RAG)**, **Gemini 2.5 Flash**, **Gemini Embeddings**, **ChromaDB**, **FastAPI**, and **React**.
 
 ---
+## Live Demo
+
+🔗 **[Try PlacementGPT](https://placement-gpt-nine.vercel.app)**
 
 ## Overview
 
@@ -222,6 +225,9 @@ http://localhost:5173
 * Designed metadata filtering for subjects and companies
 
 ---
+## API Documentation
+
+📖 **[Swagger Docs](https://placementgpt-e1xa.onrender.com/docs)**
 
 ## Author
 
