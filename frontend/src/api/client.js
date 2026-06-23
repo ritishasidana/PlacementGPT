@@ -1,8 +1,7 @@
 // frontend/src/api/client.js  (complete — adds missing functions)
 
 import axios from "axios";
-
-const API_BASE = "http://localhost:8000/api/v1";
+const API_BASE = "https://placementgpt-e1xa.onrender.com/api/v1";
 
 const api = axios.create({
   baseURL: API_BASE,

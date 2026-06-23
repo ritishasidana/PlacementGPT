@@ -31,7 +31,10 @@ app = FastAPI(
 # ── CORS Middleware ────────────────────────────────────────────────────────────
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "https://placement-gpt-nine.vercel.app",
+        "http://localhost:5173"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -47,7 +50,7 @@ app.include_router(generate.router, prefix="/api/v1", tags=["Generate"])
 async def root():
     return {
         "status": "PlacementGPT is running ✅",
-        "docs": "http://localhost:8000/docs"
+        "docs": "https://placementgpt-e1xa.onrender.com/docs"
     }
 
 if __name__ == "__main__":
